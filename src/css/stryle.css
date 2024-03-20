@@ -9,20 +9,13 @@ h1{
     text-transform: capitalize;
     background: rgb(185, 163, 35);
 }
-h2{
-    color: blue;
-    text-transform: capitalize;
-    font-size: 2em;
-    font-weight: bold;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-style:oblique;
-    text-align: center;
-}
-p{
-    color: green;
+
+
+.parrafo-1{
+    color: rgb(10, 83, 10);
     font-weight: bold;
 }
-.seccion1{
+/* .seccion1{
     background: rgb(216, 208, 164);
 }
 .seccion2{
@@ -30,4 +23,11 @@ p{
 }
 .seccion3{
     background: rgb(207, 175, 240);
+} */
+
+.titulo-2{
+    color: aquamarine;
+}
+.titulo-3{
+    color:rgb(114, 45, 5);
 }
