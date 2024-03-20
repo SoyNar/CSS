@@ -1,3 +1,8 @@
+body{
+    background-color: rgb(228, 214, 214);
+}
+
+
 h1{
     text-align: center;
     font-size: 6em;
@@ -6,7 +11,23 @@ h1{
 }
 h2{
     color: blue;
+    text-transform: capitalize;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:oblique;
+    text-align: center;
 }
 p{
     color: green;
+    font-weight: bold;
+}
+.seccion1{
+    background: rgb(216, 208, 164);
+}
+.seccion2{
+    background: rgb(231, 171, 231);
+}
+.seccion3{
+    background: rgb(207, 175, 240);
 }
