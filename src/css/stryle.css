@@ -31,3 +31,23 @@ h1{
 .titulo-3{
     color:rgb(114, 45, 5);
 }
+.container-strofa1 p, .container-strofa4 p, .container-strofa7 p, .container-strofa10 p{
+    color:#ffc800;
+    font-size: 2em;
+    font-weight: bold;
+}
+.container-strofa2 p, .container-strofa5 p, .container-strofa8 p, .container-strofa11 {
+    color: rgb(13, 78, 175);
+}
+.container-strofa3 p, .container-strofa6 p, .container-strofa9 p{
+    color: red;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(248, 244, 244);
+    background-color: #0532c5;
+}
+nav li{
+    list-style: none;
+}
