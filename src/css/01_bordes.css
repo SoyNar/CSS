@@ -1,6 +1,7 @@
 
 header{
     border: 0.1em dotted blue;
+    border-radius: 0.2em;
 }
 .parrafo{
     background: black;
@@ -71,4 +72,35 @@ p.tres {
     border-width: 25px 10px 4px 35px;
     /* 25px top, 10px right, 4px bottom and 35px left */
 }
+.imagenes{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+figure{
+    padding: 4px;
+    margin: 0;
+}
+img{
+    width: 12em;
+    height: 10em;
+}
+.image0{
+    border: 0.8em double blue;
+}
+.image1{
+    border: 0.8em groove blue;
 
+}
+.image2{
+    border: 0.8em solid hotpink;
+    /* border: (1px solid #ff0) (2px dashed #f0F) (3px dotted #F00) (5px solid #09f); */
+}
+
+.image3{
+    border: 0.8em double gold;
+}
+
+.image4{
+    border: 0.8em dashed firebrick;
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    
+    border: 0.3em solid black;
+    height: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap:wrap;
+
+    
+}
+img{
+    width: 8em;
+    border: 0.1em solid red;
+    margin:1.1em;
+
+    padding:0.3em;
+    
+}
+header{
+    text-align: center;
+}
